@@ -1,0 +1,12 @@
+accelerate
+bitsandbytes
+fire
+huggingface-hub
+numpy
+peft
+safetensors
+scipy
+torch 
+transformers
+trl
+wandb
